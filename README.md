@@ -20,9 +20,21 @@ A Software Engineering student, passionates to be deadline-driven fullstack deve
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
+<!-- # 📊 GitHub Stats: 
+![](https://github-readme-stats.vercel.app/api?username=adgehbirhane&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=adgehbirhane&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adgehbirhane&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=adgehbirhane&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
+
+<!-- ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=adgehbirhane&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
+
 ## 🌐 Contact me:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%232696F1.svg?style=for-the-badge&logo=webflow&logoColor=white)](https://belaybirhanu.netlify.app) 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/belay-birhanu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/adgehTech) [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/adgehTech) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adgehbirhane) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/adgehbirhane) [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/adgehbirhane) 
 
 
