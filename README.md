@@ -4,9 +4,8 @@
 
 
 ## 💫 About Me: 
-```
-A Software Engineering student, passionates to be deadline-driven fullstack developer.
-```
+
+Software Engineering | Passionate deadline-driven fullstack developer.
 
 ## Languages and Tools
 
