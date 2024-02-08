@@ -5,7 +5,7 @@
 
 ## 💫 About Me: 
 
-Software Engineering | Passionate deadline-driven fullstack developer.
+Software Engineer | Passionate deadline-driven fullstack developer.
 
 ## Languages and Tools
 
