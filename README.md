@@ -2,7 +2,6 @@
 
 I'm Belay Birhanu, A Software Engineer who passionate to be deadline-driven back-end developer.
 
-<<<<<<< HEAD
 ```js
 const Belay = {
    pronouns: 'He | His',
@@ -12,11 +11,6 @@ const Belay = {
    hobbies: [ 'drinking coffee', 'coding', 'traveling',  'reading', 'News', '...'],
 }
 ```
-=======
-## 💫 About Me: 
-
-Software Engineer | Passionate deadline-driven fullstack developer.
->>>>>>> 1048828d676eb2d7ed0a3924c06bff5a65f7b505
 
 ## 🔗 Links
 
