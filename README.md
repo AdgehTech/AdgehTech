@@ -3,13 +3,36 @@
 I'm Belay Birhanu, a Software Engineer who passionate deadline-driven back-end developer.
 
 ```js
-const Belay = {
-   pronouns: 'He | His',
-   languages: ['JavaScript', 'TypeScript']
-   technologies: ['React', 'MUI', 'Node', 'Express', 'NestJS' 'MongoDB', 'PostgreSQL', 'MySQL', 'Docker', 'Git', 'Linux'],
-   currentlyWorkingAt: 'Last year University project',
-   hobbies: [ 'drinking coffee', 'coding', 'traveling',  'reading', 'News', '...'],
-}
+  const belayBirhanu = {
+        pronouns: "He | His",
+        languages: ["JavaScript", "TypeScript"],
+        technologies: [
+          "React",
+          "MUI",
+          "Node",
+          "Express",
+          "NestJS",
+          "MongoDB",
+          "PostgreSQL",
+          "MySQL",
+          "Docker",
+          "Git",
+          "Linux",
+        ],
+        currentlyWorkingAt: "Last year University project",
+        hobbies: [
+          "drinking coffee",
+          "coding",
+          "traveling",
+          "reading",
+          "News",
+          "...",
+        ],
+        contact: {
+          phone: "+251 93 490 5008",
+          email: "adgehbirhane@gmail.com",
+        },
+      }; 
 ```
 
 ## 🔗 Links
