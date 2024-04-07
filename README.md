@@ -3,7 +3,7 @@
 I'm Belay Birhanu, a Software Engineer who passionate deadline-driven back-end developer.
 
 ```js
-  const belayBirhanu = {
+  let belayBirhanu = {
         pronouns: "He | His",
         languages: ["JavaScript", "TypeScript"],
         technologies: [
@@ -12,14 +12,17 @@ I'm Belay Birhanu, a Software Engineer who passionate deadline-driven back-end d
           "Node",
           "Express",
           "NestJS",
-          "MongoDB",
+          "NextJS",
+          "React Native",
           "PostgreSQL",
+          "MongoDB",          
           "MySQL",
           "Docker",
           "Git",
           "Linux",
+          "Figma"
         ],
-        currentlyWorkingAt: "Last year University project",
+        currentlyWorkingAt: "University",
         hobbies: [
           "drinking coffee",
           "coding",
