@@ -45,4 +45,4 @@ I'm Belay Birhanu, a Software Engineer who passionate deadline-driven back-end d
 
 
 <!-- ### Github views -->
-<p align="left" hidden><img src="https://profile-counter.glitch.me/{adgehbirhane}/count.svg" alt="Belay :: Visitor's Count" /></p>
+<p align="left" hidden><img hidden src="https://profile-counter.glitch.me/{adgehbirhane}/count.svg" alt="Belay :: Visitor's Count" /></p>
