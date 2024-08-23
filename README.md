@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px"> Hi there!
 
-I'm Belay Birhanu, a Software Engineer who passionate deadline-driven back-end developer.
+I'm Belay Birhanu, a Software Engineer who passionate deadline-driven full-stack developer.
 
 ```js
   let belayBirhanu = {
@@ -22,7 +22,7 @@ I'm Belay Birhanu, a Software Engineer who passionate deadline-driven back-end d
           "Linux",
           "Figma"
         ],
-        currentlyWorkingAt: "University",
+        currentlyWorkingAt: "eTemari.net",
         hobbies: [
           "drinking coffee",
           "coding",
