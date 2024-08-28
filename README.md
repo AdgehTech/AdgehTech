@@ -22,7 +22,7 @@ I'm Belay Birhanu, a Software Engineer who passionate deadline-driven full-stack
           "Linux",
           "Figma"
         ],
-        currentlyWorkingAt: "eTemari.net",
+        currentlyWorkingAt: "EduTech ICT Solutions",
         hobbies: [
           "drinking coffee",
           "coding",
